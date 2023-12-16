@@ -1,4 +1,4 @@
-This is frontend mentotr code challege part-2 (https://www.frontendmentor.io/).This challege is to design a pricing card based on the following asspects.
+This is frontend mentotr code challege part-2 (https://www.frontendmentor.io/). This challege is to design a pricing card based on the following asspects.
 I used HTML, CSS and JavaScript to overcome This challenge
 
 # Front-end Style Guide
